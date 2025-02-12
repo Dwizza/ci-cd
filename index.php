@@ -21,6 +21,7 @@ file_put_contents($file, $count);
 </head>
 
 <body class="bg-gray-100">
+    
     <div class="min-h-screen flex items-center justify-center">
         <div class="bg-white p-8 rounded shadow-md text-center">
             <h1 class="text-3xl font-bold mb-4">Bienvenue!</h1>
