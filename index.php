@@ -23,6 +23,7 @@ file_put_contents($file, $count);
     <div class="min-h-screen flex items-center justify-center">
         <div class="bg-white p-8 rounded shadow-md text-center">
             <h1 class="text-3xl font-bold mb-4">Bienvenue!</h1>
+            <h1 class="text-3xl font-bold mb-4">!</h1>
             <p class="text-xl">Vous êtes le visiteur numéro :</p>
             <p class="text-4xl font-extrabold text-blue-500 mt-2"><?php echo $count; ?></p>
         </div>
