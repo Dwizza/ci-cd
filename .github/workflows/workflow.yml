@@ -29,7 +29,6 @@ jobs:
       run: |
         git config --global user.name "Dwizza"
         git config --global user.email "oussamaerrahili124@gmail.com"
-        git switch main
         git merge dwiza
 
     # - name: Deploy via FTP
