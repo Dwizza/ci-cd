@@ -19,6 +19,7 @@ file_put_contents($file, $count);
     <link href="./output.css" rel="stylesheet">
     <title>Compteur de visiteurs</title>
 </head>
+
 <body class="bg-gray-100">
     <div class="min-h-screen flex items-center justify-center">
         <div class="bg-white p-8 rounded shadow-md text-center">
